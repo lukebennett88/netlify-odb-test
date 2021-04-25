@@ -2,4 +2,5 @@ package-lock.json
 .next
 dist/
 node_modules/
+out/
 public/
